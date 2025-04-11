@@ -14,7 +14,7 @@
             "type": "java",
             "name": "hello",
             "request": "launch",
-            "mainClass": "mycool.stuff.hello",
+            "mainClass": "mypokepackage.Main",
             "projectName": "vscodeJavaSandbox_3babb03e"
         },
         {

@@ -1,1 +1,1 @@
-rootProject.name = "my-mini-java"
+rootProject.name = "okHttpVsGraphQL"
