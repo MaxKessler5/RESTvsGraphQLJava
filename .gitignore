@@ -3,6 +3,7 @@
 *.jar
 *.war
 *.ear
+/bin/
 
 # === Gradle build ===
 .gradle/
@@ -14,9 +15,6 @@ out/
 .idea/
 *.ipr
 *.iws
-
-# === VS Code ===
-.vscode/
 
 # === OS junk ===
 .DS_Store
